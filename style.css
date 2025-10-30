@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background: #f8f9fa;
+}
+
+#webcam-container canvas {
+  border-radius: 16px;
+  margin-top: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
